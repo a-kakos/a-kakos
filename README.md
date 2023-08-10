@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![akakos's Web3 | Identity](https://stats.quine.sh/a-kakos/github?theme=dark)]([https://quine.sh](https://quine.sh?utm_source=widgets&utm_campaign=a-kakos)
+[![akakos's Web3 | Identity](https://stats.quine.sh/a-kakos/github?theme=dark)]([https://quine.sh](https://quine.sh?utm_source=widgets&utm_campaign=a-kakos))
 <!--
 **a-kakos/a-kakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
